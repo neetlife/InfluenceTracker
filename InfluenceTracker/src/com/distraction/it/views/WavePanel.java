@@ -59,7 +59,6 @@ public class WavePanel extends JList<WaveModel> {
 		@Override
 		public void mouseExited(MouseEvent e) {
 			highlightedIndex = -1;
-			System.out.println("out");
 			repaint();
 		}
 	};

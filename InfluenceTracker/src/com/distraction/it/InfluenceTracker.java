@@ -62,6 +62,8 @@ public class InfluenceTracker {
 		frame.setLocationRelativeTo(null);
 		frame.setVisible(true);
 		
+		Constants.init();
+		
 	}
 	
 }

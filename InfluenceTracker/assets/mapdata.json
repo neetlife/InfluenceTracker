@@ -1,0 +1,1496 @@
+{
+	"mapdata": [
+		{
+			"name": "Beach",
+			"tier": 1,
+			"unique": false,
+			"links": [
+				"Desert",
+				"Arid Lake"
+			]
+		},
+		{
+			"name": "Graveyard",
+			"tier": 1,
+			"unique": false,
+			"links": [
+				"Marshes"
+			]
+		},
+		{
+			"name": "Dungeon",
+			"tier": 1,
+			"unique": false,
+			"links": [
+				"Flooded Mine"
+			]
+		},
+		{
+			"name": "Alleyways",
+			"tier": 2,
+			"unique": false,
+			"links": [
+				"Lookout",
+				"Cage",
+				"Port",
+				"Arcade"
+			]
+		},
+		{
+			"name": "Pen",
+			"tier": 2,
+			"unique": false,
+			"links": [
+				"Lookout",
+				"Cage"
+			]
+		},
+		{
+			"name": "Desert",
+			"tier": 2,
+			"unique": false,
+			"links": [
+				"Beach",
+				"Iceberg"
+			]
+		},
+		{
+			"name": "Arid Lake",
+			"tier": 2,
+			"unique": false,
+			"links": [
+				"Beach",
+				"Peninsula"
+			]
+		},
+		{
+			"name": "Flooded Mine",
+			"tier": 2,
+			"unique": false,
+			"links": [
+				"Dungeon",
+				"Excavation",
+				"Leyline",
+				"Cells"
+			]
+		},
+		{
+			"name": "Marshes",
+			"tier": 2,
+			"unique": false,
+			"links": [
+				"Graveyard",
+				"Springs",
+				"Burial Chambers"
+			]
+		},
+		{
+			"name": "Iceberg",
+			"tier": 3,
+			"unique": false,
+			"links": [
+				"Desert",
+				"Strand"
+			]
+		},
+		{
+			"name": "Cage",
+			"tier": 3,
+			"unique": false,
+			"links": [
+				"Alleyways",
+				"Pen",
+				"City Square",
+				"Courthouse"
+			]
+		},
+		{
+			"name": "Springs",
+			"tier": 3,
+			"unique": false,
+			"links": [
+				"Marshes",
+				"Chateau"
+			]
+		},
+		{
+			"name": "Excavation",
+			"tier": 3,
+			"unique": false,
+			"links": [
+				"Flooded Mine",
+				"Grotto",
+				"Gorge"
+			]
+		},
+		{
+			"name": "Leyline",
+			"tier": 3,
+			"unique": false,
+			"links": [
+				"Flooded Mine",
+				"Gorge",
+				"Volcano"
+			]
+		},
+		{
+			"name": "Peninsula",
+			"tier": 3,
+			"unique": false,
+			"links": [
+				"Arid Lake",
+				"Strand",
+				"Canyon"
+			]
+		},
+		{
+			"name": "Port",
+			"tier": 3,
+			"unique": false,
+			"links": [
+				"Alleyways",
+				"Lighthouse"
+			]
+		},
+		{
+			"name": "Burial Chambers",
+			"tier": 3,
+			"unique": false,
+			"links": [
+				"Marshes",
+				"Relic Chambers"
+			]
+		},
+		{
+			"name": "Cells",
+			"tier": 3,
+			"unique": false,
+			"links": [
+				"Flooded Mine",
+				"Grotto"
+			]
+		},
+		{
+			"name": "Arcade",
+			"tier": 3,
+			"unique": false,
+			"links": [
+				"Alleyways",
+				"Courthouse"
+			]
+		},
+		{
+			"name": "City Square",
+			"tier": 4,
+			"unique": false,
+			"links": [
+				"Cage",
+				"Conservatory",
+				"Haunted Mansion"
+			]
+		},
+		{
+			"name": "Relic Chambers",
+			"tier": 4,
+			"unique": false,
+			"links": [
+				"Burial Chambers",
+				"Chateau",
+				"Barrows"
+			]
+		},
+		{
+			"name": "Courthouse",
+			"tier": 4,
+			"unique": false,
+			"links": [
+				"Cage",
+				"Arcade",
+				"Haunted Mansion",
+				"Ivory Temple"
+			]
+		},
+		{
+			"name": "Strand",
+			"tier": 4,
+			"unique": false,
+			"links": [
+				"Iceberg",
+				"Peninsula",
+				"Whakawairua Tuahu",
+				"Ancient City"
+			]
+		},
+		{
+			"name": "Whakawairua Tuahu",
+			"tier": 4,
+			"unique": true,
+			"links": [
+				"Strand"
+			]
+		},
+		{
+			"name": "Chateau",
+			"tier": 4,
+			"unique": false,
+			"links": [
+				"Springs",
+				"Relic Chambers",
+				"Toxic Sewer"
+			]
+		},
+		{
+			"name": "Grotto",
+			"tier": 4,
+			"unique": false,
+			"links": [
+				"Excavation",
+				"Cells",
+				"Maze",
+				"Channel"
+			]
+		},
+		{
+			"name": "Gorge",
+			"tier": 4,
+			"unique": false,
+			"links": [
+				"Excavation",
+				"Leyline",
+				"Sulphur Vents",
+				"Channel"
+			]
+		},
+		{
+			"name": "Volcano",
+			"tier": 4,
+			"unique": false,
+			"links": [
+				"Leyline",
+				"Sulphur Vents"
+			]
+		},
+		{
+			"name": "Lighthouse",
+			"tier": 4,
+			"unique": false,
+			"links": [
+				"Port",
+				"Ivory Temple"
+			]
+		},
+		{
+			"name": "Canyon",
+			"tier": 4,
+			"unique": false,
+			"links": [
+				"Peninsula",
+				"Spider Lair"
+			]
+		},
+		{
+			"name": "Conservatory",
+			"tier": 5,
+			"unique": false,
+			"links": [
+				"City Square",
+				"Academy"
+			]
+		},
+		{
+			"name": "Sulphur Vents",
+			"tier": 5,
+			"unique": false,
+			"links": [
+				"Gorge",
+				"Volcano",
+				"Ashen Wood",
+				"Atoll"
+			]
+		},
+		{
+			"name": "Haunted Mansion",
+			"tier": 5,
+			"unique": false,
+			"links": [
+				"City Square",
+				"Courthouse",
+				"Academy",
+				"Wharf"
+			]
+		},
+		{
+			"name": "Maze",
+			"tier": 5,
+			"unique": false,
+			"links": [
+				"Grotto",
+				"Underground Sea"
+			]
+		},
+		{
+			"name": "Channel",
+			"tier": 5,
+			"unique": false,
+			"links": [
+				"Grotto",
+				"Gorge",
+				"Atoll",
+				"Underground Sea"
+			]
+		},
+		{
+			"name": "Toxic Sewer",
+			"tier": 5,
+			"unique": false,
+			"links": [
+				"Chateau",
+				"Phantasmagoria",
+				"Cemetery"
+			]
+		},
+		{
+			"name": "Ancient City",
+			"tier": 5,
+			"unique": false,
+			"links": [
+				"Strand",
+				"Fields"
+			]
+		},
+		{
+			"name": "Ivory Temple",
+			"tier": 5,
+			"unique": false,
+			"links": [
+				"Courthouse",
+				"Lighthouse",
+				"Thicket",
+				"Wharf"
+			]
+		},
+		{
+			"name": "Spider Lair",
+			"tier": 5,
+			"unique": false,
+			"links": [
+				"Canyon",
+				"Fields",
+				"Jungle Valley",
+				"Thicket"
+			]
+		},
+		{
+			"name": "Barrows",
+			"tier": 5,
+			"unique": false,
+			"links": [
+				"Relic Chambers",
+				"Mausoleum",
+				"Ashen Wood",
+				"Cemetery"
+			]
+		},
+		{
+			"name": "Mausoleum",
+			"tier": 6,
+			"unique": false,
+			"links": [
+				"Barrows",
+				"Lava Chamber"
+			]
+		},
+		{
+			"name": "Fields",
+			"tier": 6,
+			"unique": false,
+			"links": [
+				"Ancient City",
+				"Spider Lair",
+				"Residence"
+			]
+		},
+		{
+			"name": "Jungle Valley",
+			"tier": 6,
+			"unique": false,
+			"links": [
+				"Spider Lair",
+				"Coral Ruins",
+				"Arachnid Nest"
+			]
+		},
+		{
+			"name": "Phantasmagoria",
+			"tier": 6,
+			"unique": false,
+			"links": [
+				"Toxic Sewer",
+				"Dunes",
+				"Bone Crypt"
+			]
+		},
+		{
+			"name": "Academy",
+			"tier": 6,
+			"unique": false,
+			"links": [
+				"Conservatory",
+				"Haunted Mansion",
+				"Tribunal",
+				"Gardens"
+			]
+		},
+		{
+			"name": "Thicket",
+			"tier": 6,
+			"unique": false,
+			"links": [
+				"Ivory Temple",
+				"Spider Lair",
+				"Arachnid Nest"
+			]
+		},
+		{
+			"name": "Wharf",
+			"tier": 6,
+			"unique": false,
+			"links": [
+				"Haunted Mansion",
+				"Ivory Temple",
+				"Bazaar"
+			]
+		},
+		{
+			"name": "Ashen Wood",
+			"tier": 6,
+			"unique": false,
+			"links": [
+				"Sulphur Vents",
+				"Barrows",
+				"Lava Chamber"
+			]
+		},
+		{
+			"name": "Atoll",
+			"tier": 6,
+			"unique": false,
+			"links": [
+				"Sulphur Vents",
+				"Channel",
+				"Maelström of Chaos",
+				"Ramparts"
+			]
+		},
+		{
+			"name": "Maelström of Chaos",
+			"tier": 6,
+			"unique": true,
+			"links": [
+				"Atoll"
+			]
+		},
+		{
+			"name": "Cemetery",
+			"tier": 6,
+			"unique": false,
+			"links": [
+				"Toxic Sewer",
+				"Barrows",
+				"Hallowed Ground",
+				"Bone Crypt"
+			]
+		},
+		{
+			"name": "Hallowed Ground",
+			"tier": 6,
+			"unique": true,
+			"links": [
+				"Cemetery"
+			]
+		},
+		{
+			"name": "Underground Sea",
+			"tier": 6,
+			"unique": false,
+			"links": [
+				"Maze",
+				"Channel",
+				"Ramparts",
+				"Underground River"
+			]
+		},
+		{
+			"name": "Tribunal",
+			"tier": 7,
+			"unique": false,
+			"links": [
+				"Academy",
+				"Vaal Pyramid"
+			]
+		},
+		{
+			"name": "Coral Ruins",
+			"tier": 7,
+			"unique": false,
+			"links": [
+				"Jungle Valley",
+				"Infested Valley"
+			]
+		},
+		{
+			"name": "Lava Chamber",
+			"tier": 7,
+			"unique": false,
+			"links": [
+				"Mausoleum",
+				"Ashen Wood",
+				"Overgrown Ruin",
+				"Armoury"
+			]
+		},
+		{
+			"name": "Residence",
+			"tier": 7,
+			"unique": false,
+			"links": [
+				"Fields",
+				"Courtyard"
+			]
+		},
+		{
+			"name": "Ramparts",
+			"tier": 7,
+			"unique": false,
+			"links": [
+				"Atoll",
+				"Underground Sea",
+				"Armoury"
+			]
+		},
+		{
+			"name": "Dunes",
+			"tier": 7,
+			"unique": false,
+			"links": [
+				"Phantasmagoria",
+				"Pillars of Arun",
+				"Mud Geyser",
+				"Shore"
+			]
+		},
+		{
+			"name": "Pillars of Arun",
+			"tier": 7,
+			"unique": true,
+			"links": [
+				"Dunes"
+			]
+		},
+		{
+			"name": "Bone Crypt",
+			"tier": 7,
+			"unique": false,
+			"links": [
+				"Phantasmagoria",
+				"Cemetery",
+				"Olmec's Sanctum",
+				"Mud Geyser"
+			]
+		},
+		{
+			"name": "Olmec's Sanctum",
+			"tier": 7,
+			"unique": true,
+			"links": [
+				"Bone Crypt"
+			]
+		},
+		{
+			"name": "Underground River",
+			"tier": 7,
+			"unique": false,
+			"links": [
+				"Underground Sea",
+				"Caer Blaidd",
+				"Wolfpack's Den",
+				"Geode",
+				"Mineral Pools"
+			]
+		},
+		{
+			"name": "Caer Blaidd, Wolfpack's Den",
+			"tier": 7,
+			"unique": true,
+			"links": [
+				"Underground River"
+			]
+		},
+		{
+			"name": "Gardens",
+			"tier": 7,
+			"unique": false,
+			"links": [
+				"Academy",
+				"Tropical Island"
+			]
+		},
+		{
+			"name": "Arachnid Nest",
+			"tier": 7,
+			"unique": false,
+			"links": [
+				"Jungle Valley",
+				"Thicket",
+				"Infested Valley"
+			]
+		},
+		{
+			"name": "Bazaar",
+			"tier": 7,
+			"unique": false,
+			"links": [
+				"Wharf",
+				"Laboratory"
+			]
+		},
+		{
+			"name": "Laboratory",
+			"tier": 8,
+			"unique": false,
+			"links": [
+				"Bazaar",
+				"Museum",
+				"Scriptorium"
+			]
+		},
+		{
+			"name": "Infested Valley",
+			"tier": 8,
+			"unique": false,
+			"links": [
+				"Coral Ruins",
+				"Arachnid Nest",
+				"Plateau"
+			]
+		},
+		{
+			"name": "Overgrown Ruin",
+			"tier": 8,
+			"unique": false,
+			"links": [
+				"Lava Chamber",
+				"Waste Pool",
+				"Vault"
+			]
+		},
+		{
+			"name": "Vaal Pyramid",
+			"tier": 8,
+			"unique": false,
+			"links": [
+				"Tribunal",
+				"Vaults of Atziri",
+				"Estuary",
+				"Museum"
+			]
+		},
+		{
+			"name": "Vaults of Atziri",
+			"tier": 8,
+			"unique": true,
+			"links": [
+				"Vaal Pyramid"
+			]
+		},
+		{
+			"name": "Geode",
+			"tier": 8,
+			"unique": false,
+			"links": [
+				"Underground River",
+				"Sepulchre",
+				"Vault"
+			]
+		},
+		{
+			"name": "Armoury",
+			"tier": 8,
+			"unique": false,
+			"links": [
+				"Lava Chamber",
+				"Ramparts",
+				"Vault"
+			]
+		},
+		{
+			"name": "Courtyard",
+			"tier": 8,
+			"unique": false,
+			"links": [
+				"Residence",
+				"The Vinktar Square",
+				"Temple",
+				"Arena"
+			]
+		},
+		{
+			"name": "The Vinktar Square",
+			"tier": 8,
+			"unique": true,
+			"links": [
+				"Courtyard"
+			]
+		},
+		{
+			"name": "Mud Geyser",
+			"tier": 8,
+			"unique": false,
+			"links": [
+				"Dunes",
+				"Bone Crypt",
+				"Waste Pool"
+			]
+		},
+		{
+			"name": "Shore",
+			"tier": 8,
+			"unique": false,
+			"links": [
+				"Dunes",
+				"Mao Kun",
+				"Tropical Island",
+				"Tower"
+			]
+		},
+		{
+			"name": "Mao Kun",
+			"tier": 8,
+			"unique": true,
+			"links": [
+				"Shore"
+			]
+		},
+		{
+			"name": "Tropical Island",
+			"tier": 8,
+			"unique": false,
+			"links": [
+				"Gardens",
+				"Shore",
+				"Estuary"
+			]
+		},
+		{
+			"name": "Mineral Pools",
+			"tier": 8,
+			"unique": false,
+			"links": [
+				"Underground River",
+				"Moon Temple"
+			]
+		},
+		{
+			"name": "Moon Temple",
+			"tier": 9,
+			"unique": false,
+			"links": [
+				"Mineral Pools",
+				"The Twilight Temple",
+				"Temple",
+				"Belfry"
+			]
+		},
+		{
+			"name": "The Twilight Temple",
+			"tier": 9,
+			"unique": true,
+			"links": [
+				"Moon Temple"
+			]
+		},
+		{
+			"name": "Sepulchre",
+			"tier": 9,
+			"unique": false,
+			"links": [
+				"Geode",
+				"Belfry",
+				"Orchard"
+			]
+		},
+		{
+			"name": "Tower",
+			"tier": 9,
+			"unique": false,
+			"links": [
+				"Shore",
+				"Shipyard",
+				"Precinct"
+			]
+		},
+		{
+			"name": "Waste Pool",
+			"tier": 9,
+			"unique": false,
+			"links": [
+				"Overgrown Ruin",
+				"Mud Geyser",
+				"Bog",
+				"Orchard"
+			]
+		},
+		{
+			"name": "Plateau",
+			"tier": 9,
+			"unique": false,
+			"links": [
+				"Infested Valley",
+				"Wasteland"
+			]
+		},
+		{
+			"name": "Estuary",
+			"tier": 9,
+			"unique": false,
+			"links": [
+				"Vaal Pyramid",
+				"Tropical Island",
+				"Shipyard",
+				"Arachnid Tomb"
+			]
+		},
+		{
+			"name": "Vault",
+			"tier": 9,
+			"unique": false,
+			"links": [
+				"Overgrown Ruin",
+				"Geode",
+				"Armoury",
+				"Orchard"
+			]
+		},
+		{
+			"name": "Temple",
+			"tier": 9,
+			"unique": false,
+			"links": [
+				"Courtyard",
+				"Moon Temple",
+				"Poorjoy's Asylum",
+				"Cursed Crypt"
+			]
+		},
+		{
+			"name": "Poorjoy's Asylum",
+			"tier": 9,
+			"unique": true,
+			"links": [
+				"Temple"
+			]
+		},
+		{
+			"name": "Arena",
+			"tier": 9,
+			"unique": false,
+			"links": [
+				"Courtyard",
+				"Wasteland",
+				"Pier"
+			]
+		},
+		{
+			"name": "Museum",
+			"tier": 9,
+			"unique": false,
+			"links": [
+				"Laboratory",
+				"Vaal Pyramid",
+				"The Putrid Cloister",
+				"Siege"
+			]
+		},
+		{
+			"name": "The Putrid Cloister",
+			"tier": 9,
+			"unique": true,
+			"links": [
+				"Museum"
+			]
+		},
+		{
+			"name": "Scriptorium",
+			"tier": 9,
+			"unique": false,
+			"links": [
+				"Laboratory",
+				"Siege"
+			]
+		},
+		{
+			"name": "Siege",
+			"tier": 10,
+			"unique": false,
+			"links": [
+				"Museum",
+				"Scriptorium",
+				"Colonnade"
+			]
+		},
+		{
+			"name": "Shipyard",
+			"tier": 10,
+			"unique": false,
+			"links": [
+				"Tower",
+				"Estuary",
+				"Coves"
+			]
+		},
+		{
+			"name": "Belfry",
+			"tier": 10,
+			"unique": false,
+			"links": [
+				"Moon Temple",
+				"Sepulchre",
+				"Waterways"
+			]
+		},
+		{
+			"name": "Arachnid Tomb",
+			"tier": 10,
+			"unique": false,
+			"links": [
+				"Estuary",
+				"Spider Forest"
+			]
+		},
+		{
+			"name": "Wasteland",
+			"tier": 10,
+			"unique": false,
+			"links": [
+				"Plateau",
+				"Arena",
+				"Factory",
+				"Pit"
+			]
+		},
+		{
+			"name": "Precinct",
+			"tier": 10,
+			"unique": false,
+			"links": [
+				"Tower",
+				"Promenade"
+			]
+		},
+		{
+			"name": "Bog",
+			"tier": 10,
+			"unique": false,
+			"links": [
+				"Waste Pool",
+				"Lair",
+				"Primordial Pool"
+			]
+		},
+		{
+			"name": "Pier",
+			"tier": 10,
+			"unique": false,
+			"links": [
+				"Arena",
+				"Pit"
+			]
+		},
+		{
+			"name": "Cursed Crypt",
+			"tier": 10,
+			"unique": false,
+			"links": [
+				"Temple",
+				"The Coward's Trial",
+				"Mesa"
+			]
+		},
+		{
+			"name": "The Coward's Trial",
+			"tier": 10,
+			"unique": true,
+			"links": [
+				"Cursed Crypt"
+			]
+		},
+		{
+			"name": "Orchard",
+			"tier": 10,
+			"unique": false,
+			"links": [
+				"Sepulchre",
+				"Waste Pool",
+				"Vault",
+				"Waterways"
+			]
+		},
+		{
+			"name": "Promenade",
+			"tier": 11,
+			"unique": false,
+			"links": [
+				"Precinct",
+				"The Hall of Grandmasters",
+				"Racecourse"
+			]
+		},
+		{
+			"name": "The Hall of Grandmasters",
+			"tier": 11,
+			"unique": true,
+			"links": [
+				"Promenade"
+			]
+		},
+		{
+			"name": "Lair",
+			"tier": 11,
+			"unique": false,
+			"links": [
+				"Bog",
+				"Necropolis",
+				"Racecourse"
+			]
+		},
+		{
+			"name": "Colonnade",
+			"tier": 11,
+			"unique": false,
+			"links": [
+				"Siege",
+				"Defiled Cathedral"
+			]
+		},
+		{
+			"name": "Primordial Pool",
+			"tier": 11,
+			"unique": false,
+			"links": [
+				"Bog",
+				"Summit"
+			]
+		},
+		{
+			"name": "Spider Forest",
+			"tier": 11,
+			"unique": false,
+			"links": [
+				"Arachnid Tomb",
+				"Castle Ruins"
+			]
+		},
+		{
+			"name": "Coves",
+			"tier": 11,
+			"unique": false,
+			"links": [
+				"Shipyard",
+				"Castle Ruins"
+			]
+		},
+		{
+			"name": "Waterways",
+			"tier": 11,
+			"unique": false,
+			"links": [
+				"Belfry",
+				"Orchard",
+				"Torture Chamber"
+			]
+		},
+		{
+			"name": "Factory",
+			"tier": 11,
+			"unique": false,
+			"links": [
+				"Wasteland",
+				"Crystal Ore",
+				"Villa"
+			]
+		},
+		{
+			"name": "Mesa",
+			"tier": 11,
+			"unique": false,
+			"links": [
+				"Cursed Crypt",
+				"Overgrown Shrine"
+			]
+		},
+		{
+			"name": "Pit",
+			"tier": 11,
+			"unique": false,
+			"links": [
+				"Wasteland",
+				"Pier",
+				"Overgrown Shrine",
+				"Villa"
+			]
+		},
+		{
+			"name": "Defiled Cathedral",
+			"tier": 12,
+			"unique": false,
+			"links": [
+				"Colonnade",
+				"Shrine"
+			]
+		},
+		{
+			"name": "Summit",
+			"tier": 12,
+			"unique": false,
+			"links": [
+				"Primordial Pool",
+				"Core"
+			]
+		},
+		{
+			"name": "Overgrown Shrine",
+			"tier": 12,
+			"unique": false,
+			"links": [
+				"Mesa",
+				"Pit",
+				"Acton's Nightmare",
+				"Desert Spring"
+			]
+		},
+		{
+			"name": "Acton's Nightmare",
+			"tier": 12,
+			"unique": true,
+			"links": [
+				"Overgrown Shrine"
+			]
+		},
+		{
+			"name": "Castle Ruins",
+			"tier": 12,
+			"unique": false,
+			"links": [
+				"Spider Forest",
+				"Coves",
+				"Ghetto"
+			]
+		},
+		{
+			"name": "Crystal Ore",
+			"tier": 12,
+			"unique": false,
+			"links": [
+				"Factory",
+				"Caldera"
+			]
+		},
+		{
+			"name": "Villa",
+			"tier": 12,
+			"unique": false,
+			"links": [
+				"Factory",
+				"Pit",
+				"Park"
+			]
+		},
+		{
+			"name": "Torture Chamber",
+			"tier": 12,
+			"unique": false,
+			"links": [
+				"Waterways",
+				"Oba's Cursed Trove",
+				"Malformation"
+			]
+		},
+		{
+			"name": "Oba's Cursed Trove",
+			"tier": 12,
+			"unique": true,
+			"links": [
+				"Torture Chamber"
+			]
+		},
+		{
+			"name": "Necropolis",
+			"tier": 12,
+			"unique": false,
+			"links": [
+				"Lair",
+				"Death and Taxes",
+				"Arsenal"
+			]
+		},
+		{
+			"name": "Death and Taxes",
+			"tier": 12,
+			"unique": false,
+			"links": [
+				"Necropolis"
+			]
+		},
+		{
+			"name": "Racecourse",
+			"tier": 12,
+			"unique": false,
+			"links": [
+				"Promenade",
+				"Lair",
+				"Terrace"
+			]
+		},
+		{
+			"name": "Caldera",
+			"tier": 13,
+			"unique": false,
+			"links": [
+				"Crystal Ore",
+				"Palace"
+			]
+		},
+		{
+			"name": "Ghetto",
+			"tier": 13,
+			"unique": false,
+			"links": [
+				"Castle Ruins",
+				"Dig"
+			]
+		},
+		{
+			"name": "Park",
+			"tier": 13,
+			"unique": false,
+			"links": [
+				"Villa",
+				"Palace"
+			]
+		},
+		{
+			"name": "Malformation",
+			"tier": 13,
+			"unique": false,
+			"links": [
+				"Torture Chamber",
+				"Dark Forest"
+			]
+		},
+		{
+			"name": "Terrace",
+			"tier": 13,
+			"unique": false,
+			"links": [
+				"Racecourse",
+				"Arsenal",
+				"Colosseum"
+			]
+		},
+		{
+			"name": "Shrine",
+			"tier": 13,
+			"unique": false,
+			"links": [
+				"Defiled Cathedral",
+				"Acid Lakes",
+				"Dig"
+			]
+		},
+		{
+			"name": "Arsenal",
+			"tier": 13,
+			"unique": false,
+			"links": [
+				"Necropolis",
+				"Terrace",
+				"Colosseum"
+			]
+		},
+		{
+			"name": "Desert Spring",
+			"tier": 13,
+			"unique": false,
+			"links": [
+				"Overgrown Shrine",
+				"Crimson Temple"
+			]
+		},
+		{
+			"name": "Core",
+			"tier": 13,
+			"unique": false,
+			"links": [
+				"Summit",
+				"Plaza"
+			]
+		},
+		{
+			"name": "Colosseum",
+			"tier": 14,
+			"unique": false,
+			"links": [
+				"Terrace",
+				"Arsenal",
+				"Lava Lake"
+			]
+		},
+		{
+			"name": "Acid Lakes",
+			"tier": 14,
+			"unique": false,
+			"links": [
+				"Shrine",
+				"Carcass"
+			]
+		},
+		{
+			"name": "Dark Forest",
+			"tier": 14,
+			"unique": false,
+			"links": [
+				"Malformation",
+				"Plaza",
+				"Reef"
+			]
+		},
+		{
+			"name": "Crimson Temple",
+			"tier": 14,
+			"unique": false,
+			"links": [
+				"Desert Spring",
+				"Palace",
+				"Basilica"
+			]
+		},
+		{
+			"name": "Plaza",
+			"tier": 14,
+			"unique": false,
+			"links": [
+				"Core",
+				"Dark Forest",
+				"Sunken City"
+			]
+		},
+		{
+			"name": "Dig",
+			"tier": 14,
+			"unique": false,
+			"links": [
+				"Ghetto",
+				"Shrine",
+				"Carcass"
+			]
+		},
+		{
+			"name": "Palace",
+			"tier": 14,
+			"unique": false,
+			"links": [
+				"Caldera",
+				"Park",
+				"Crimson Temple",
+				"Basilica"
+			]
+		},
+		{
+			"name": "Lava Lake",
+			"tier": 15,
+			"unique": false,
+			"links": [
+				"Colosseum",
+				"Pit of the Chimera"
+			]
+		},
+		{
+			"name": "Basilica",
+			"tier": 15,
+			"unique": false,
+			"links": [
+				"Crimson Temple",
+				"Palace",
+				"Forge of the Phoenix"
+			]
+		},
+		{
+			"name": "Sunken City",
+			"tier": 15,
+			"unique": false,
+			"links": [
+				"Plaza",
+				"Reef",
+				"Lair of the Hydra"
+			]
+		},
+		{
+			"name": "Reef",
+			"tier": 15,
+			"unique": false,
+			"links": [
+				"Dark Forest",
+				"Sunken City",
+				"Lair of the Hydra"
+			]
+		},
+		{
+			"name": "Carcass",
+			"tier": 15,
+			"unique": false,
+			"links": [
+				"Acid Lakes",
+				"Dig",
+				"Maze of the Minotaur"
+			]
+		},
+		{
+			"name": "Pit of the Chimera",
+			"tier": 16,
+			"unique": false,
+			"links": [
+				"Lava Lake"
+			]
+		},
+		{
+			"name": "Lair of the Hydra",
+			"tier": 16,
+			"unique": false,
+			"links": [
+				"Sunken City",
+				"Reef"
+			]
+		},
+		{
+			"name": "Maze of the Minotaur",
+			"tier": 16,
+			"unique": false,
+			"links": [
+				"Carcass"
+			]
+		},
+		{
+			"name": "Forge of the Phoenix",
+			"tier": 16,
+			"unique": false,
+			"links": [
+				"Basilica"
+			]
+		},
+		{
+			"name": "Vaal Temple",
+			"tier": 16,
+			"unique": false
+		}
+	]
+}

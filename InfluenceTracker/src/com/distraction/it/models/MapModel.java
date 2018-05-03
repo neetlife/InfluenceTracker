@@ -1,6 +1,6 @@
 package com.distraction.it.models;
 
-import com.distraction.it.MapData;
+import com.distraction.it.data.MapData;
 
 public class MapModel {
 	
